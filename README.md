@@ -50,7 +50,7 @@ This project aims to uncover the **adoption patterns of Electric Vehicles (EVs)*
 
 ### 📌 EV Adoption Dashboard – Power BI
 
-<img src="downloads/DSBI.png" alt="EV Dashboard" width="100%" />
+<img src="Screenshots/DSBI.png" alt="EV Dashboard" width="100%" />
 
 Features:
 - Total EVs: 150K+
