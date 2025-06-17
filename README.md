@@ -42,25 +42,22 @@ This project aims to uncover the **adoption patterns of Electric Vehicles (EVs)*
 ## 🌐 Hosted Website
 
 🔗 [Access Live Frontend Website Here](https://dsbi-git-main-parimal1009s-projects.vercel.app/)  
-(Replace with actual link if deployed via GitHub Pages, Vercel, Netlify, etc.)
+
 
 ---
 
-## 📊 Power BI Dashboard Highlights
+## 📊 Dashboard Preview
 
-Here are some key visuals from our Power BI dashboard:
+### 📌 EV Adoption Dashboard – Power BI
 
-### 🔸 Total EVs by Make (Tesla Dominates)
-![EV by Make](screenshots/make_chart.png)
+![DSBI Dashboard](downloads/DSBI.png)
 
-### 🔸 EV Type Distribution
-![EV Type Pie](screenshots/ev_type_pie.png)
-
-### 🔸 CAFV Eligibility vs Range
-![CAFV Eligibility](screenshots/cafv_eligibility_boxplot.png)
-
-### 🔸 US State-Wise Adoption Heatmap
-![Choropleth](screenshots/state_map.png)
+Features:
+- Total EVs: 150K+
+- BEV vs PHEV breakdown
+- Model year and state-wise adoption
+- Market share by brand and model
+- CAFV eligibility filters
 
 > 📍 *All charts are interactive in the Power BI Dashboard linked on the frontend site.*
 
