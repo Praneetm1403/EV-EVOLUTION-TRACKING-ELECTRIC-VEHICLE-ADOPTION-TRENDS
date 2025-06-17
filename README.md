@@ -43,7 +43,7 @@ This project aims to uncover the **adoption patterns of Electric Vehicles (EVs)*
 
 ### 🖥️ Frontend Web Interface (With Dashboard Integration)
 
-<img src="screenshots/website.png" alt="Frontend Website" width="100%" />
+<img src="Screenshots/website.png" alt="Frontend Website" width="100%" />
 
 
 ## 🌐 Hosted Website
